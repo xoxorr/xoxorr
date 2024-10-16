@@ -4,10 +4,6 @@ xoxorr/xoxorr is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1>Welcome to My GitHub Profile!</h1>
-<p>
-  <em>A space where coding meets creativity.</em>
-</p>
 
 <h2>💻 Programming Languages</h2>
 <div>
