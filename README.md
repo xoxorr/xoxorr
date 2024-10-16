@@ -39,10 +39,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox Badge">
 </div>
 
-<h2>📊 GitHub Stats</h2>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default" alt="GitHub Stats">
-</div>
+
 
 <h2>🔗 Let's Connect</h2>
 <p>
