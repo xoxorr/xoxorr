@@ -14,7 +14,6 @@ I enjoy analyzing digital evidence, building efficient tools, and exploring new 
 ---
 
 ## 📊 GitHub Stats  
-![TaeTaek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xoxorr&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxorr&layout=compact&theme=tokyonight)  
 
 ---
