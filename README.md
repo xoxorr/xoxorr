@@ -1,4 +1,4 @@
-# 👋 Hello! I'm xoxor
+# 👋 Hello! I'm kitaek Lim
 
 ### 🕵️‍♂️ Digital Forensics & Software Developer  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=Digital+Forensics+%7C+Software+Developer" alt="Typing SVG" />
