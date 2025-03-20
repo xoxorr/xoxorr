@@ -18,11 +18,6 @@ I enjoy analyzing digital evidence, building efficient tools, and exploring new 
 ### 🛠 Frameworks, Tools & Platforms  
 ![All Tools](https://img.shields.io/badge/Everything-I%20Can%20Use-Blue?style=for-the-badge)
 
-🔹 **Key Technologies**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ### ☁ Cloud & OS  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
